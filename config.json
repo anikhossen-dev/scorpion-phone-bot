@@ -1,11 +1,11 @@
 {
     "auto_cart": true,
     "batch_cart": true,
-    "bin_number": "502565",
+    "bin_number": "",
     "cart_mode": "batch",
     "delay_ms": 400,
     "ignore_base": true,
-    "license_key": "SCP-MZWR-7M6U-YYYT",
+    "license_key": "",
     "price": [
         "lowest_first"
     ],
@@ -15,7 +15,7 @@
     "show_selectBaseMode": true,
     "show_selectCartMode": true,
     "single_cart": false,
-    "token": "eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6ImEzY2VjNTE0LTIyMDctNDVkNS1iMmUxLWNmNWIyMTYyOTg1YSJ9.jO80e39gpNahnOFZFh3Kf1xeYal27_KewR9BqFQGQ5V0jkYhhYPqdbP6n4xhEjerCK4jqs3X-NLoQ-sdQTWfPA",
+    "token": "",
     "total_pages": "auto",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    "user_agent": ""
 }
